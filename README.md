@@ -1,9 +1,16 @@
-# [Density-Exchange-Reactjs]()
+# [Density-Exchange-Reactjs](https://timely-sprite-b7bb29.netlify.app/)
 
+## Getting Started
 
+Follow these steps to get the project up and running on your local machine:
 
-## Demo
+1. Clone this repository: `git clone https://github.com/Namrata0407/Density-Exchange-Reactjs.git`
+2. Navigate to the project directory: `cd Density-Exchange-Reactjs`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. Open your browser and visit: `http://localhost:3000`
 
+## Demo - https://timely-sprite-b7bb29.netlify.app/
 
 
 ## Introduction
@@ -22,20 +29,6 @@ Density Exchange Reactjs is a creative landing page showcasing a variety of anim
 - [Chakra UI](https://chakra-ui.com/): A simple and modular UI component library for React.
 - [Framer Motion](https://www.framer.com/motion/): An animation library for React, providing smooth animations and transitions.
 - [GreenSock Animation Platform (GSAP)](https://greensock.com/gsap/): A powerful animation library for creating complex animations.
-
-## Getting Started
-
-Follow these steps to get the project up and running on your local machine:
-
-1. Clone this repository: `git clone https://github.com/Namrata0407/Density-Exchange-Reactjs.git`
-2. Navigate to the project directory: `cd Density-Exchange-Reactjs`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm run dev`
-5. Open your browser and visit: `http://localhost:3000`
-
-## Usage
-
-Once the application is up and running, you can explore the various animations and visual effects showcased on the landing page. Feel free to interact with different sections to see the animations in action.
 
 ## Contributing
 
